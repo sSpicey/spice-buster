@@ -1,4 +1,4 @@
-# Spice Buster
+# spice-buster
 This python module can be used to discover existent directories in websites and webapps. 
 
 ## usage
